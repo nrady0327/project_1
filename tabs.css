@@ -1,0 +1,132 @@
+BODY {
+	margin: 10px;
+	padding: 0;
+	font: 1em "Times New Roman";
+	font-size: 100%;
+
+
+}
+H1 {
+	margin-bottom: 2px;
+	font-family: Garamond, "Times New Roman", Times, Serif;
+}
+DIV.container {
+	margin: auto;
+	width: 90%;
+	margin-bottom: 10px;
+}
+TEXTAREA {
+	width: 80%;
+}
+FIELDSET {
+	border: 1px solid green;
+	padding: 1em;
+	margin: 0;
+	display: block;
+	width: 120px;
+
+}
+
+LEGEND {
+	color: -moz-mac-accentdarkshadow;
+	font-size: 120%;
+}
+INPUT, TEXTAREA {
+	font-family: Arial, verdana;
+	font-size: 125%;
+	padding: 7px;
+	border: 1px solid #999;
+}
+LABEL {
+	display: block;
+	margin-top: 10px;
+
+}
+IMG {
+	margin: 5px;
+float: left;
+}
+UL.tabNavigation {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+UL.tabNavigation LI {
+	display: inline;
+}
+UL.tabNavigation LI A {
+	padding: 3px 5px;
+	background-color: #ccc;
+	color: #000;
+	text-decoration: none;
+}
+UL.tabNavigation LI A.selected, UL.tabNavigation LI A:hover {
+	background-color: #333;
+	color: #fff;
+	padding-top: 7px;
+}
+UL.tabNavigation LI A:focus {
+	outline: 0;
+}
+div.tabs > div {
+	padding: 5px;
+	margin-top: 3px;
+	border: 5px solid #333;
+}
+div.tabs > div h2 {
+	margin-top: 0;
+}
+#first {
+	background-color: #f00;
+}
+#second {
+	background-color: #0f0;
+}
+#third {
+	background-color: deepskyblue;
+}
+.waste {
+	min-height: 1000px;
+}
+#page
+{
+	margin: 0 auto;
+	width: 960px;
+	text-align: center;
+	background-color: gray;
+}
+#contact{
+	border: 2px solid blue;
+
+}
+footer{
+	background-color:black;
+	color: red;
+	text-align: center;
+
+}
+#formTab2 h4{
+	float: left;
+}
+#deliveryInfo{
+	border: 2px solid blue;
+}
+.footNote{
+	color: red;
+	float: left;
+}
+#formTab3 h4{
+	float: left;
+}
+#calculateButton{
+	float: left;
+}
+#contactSummary{
+	border: 2px solid red;
+}
+#pizzaDetails{
+	border: 2px solid red;
+}
+#costDetails{
+	border: 2px solid red;
+}
